@@ -1,3 +1,4 @@
+# https://buddy.works/guides/how-dockerize-node-application
 FROM node:7
 WORKDIR /app
 COPY package.json /app
